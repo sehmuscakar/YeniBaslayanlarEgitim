@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\bin\Debug\UygulamaAlanı5.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\bin\Debug\UygulamaAlanı5.exe
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\bin\Debug\UygulamaAlanı5.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.exe
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\UygulamaAlanı5\obj\Debug\UygulamaAlanı5.pdb

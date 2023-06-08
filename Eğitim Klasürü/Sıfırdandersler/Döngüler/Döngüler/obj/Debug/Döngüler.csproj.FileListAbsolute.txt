@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\bin\Debug\Döngüler.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\bin\Debug\Döngüler.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\bin\Debug\Döngüler.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Döngüler\Döngüler\obj\Debug\Döngüler.pdb

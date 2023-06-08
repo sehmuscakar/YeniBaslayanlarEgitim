@@ -1,0 +1,12 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\bin\Debug\Formlar arası geçiş işlemi.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\bin\Debug\Formlar arası geçiş işlemi.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\bin\Debug\Formlar arası geçiş işlemi.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar arası geçiş işlemi.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar arası geçiş işlemi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar_arası_geçiş_işlemi.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar_arası_geçiş_işlemi.Form2.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar_arası_geçiş_işlemi.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar arası geçiş işlemi.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar arası geçiş işlemi.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar arası geçiş işlemi.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Formlar arası geçiş işlemi\Formlar arası geçiş işlemi\obj\Debug\Formlar arası geçiş işlemi.pdb

@@ -1,0 +1,12 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\bin\Debug\Random Yapısı.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\bin\Debug\Random Yapısı.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\bin\Debug\Random Yapısı.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random Yapısı.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random Yapısı.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random_Yapısı.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random_Yapısı.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random Yapısı.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random Yapısı.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random Yapısı.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random Yapısı.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Random Yapısı\Random Yapısı\obj\Debug\Random_Yapısı.Uygulama_Alanı_2.resources

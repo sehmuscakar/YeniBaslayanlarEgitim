@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\bin\Debug\Uygulama4.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\bin\Debug\Uygulama4.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\bin\Debug\Uygulama4.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Uygulama4\obj\Debug\Uygulama4.pdb

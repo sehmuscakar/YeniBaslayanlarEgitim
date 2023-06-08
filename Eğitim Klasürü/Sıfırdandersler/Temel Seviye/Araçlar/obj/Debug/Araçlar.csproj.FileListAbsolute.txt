@@ -1,0 +1,14 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.Form1.aa-ER.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\bin\Debug\Araçlar.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\bin\Debug\Araçlar.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\bin\Debug\Araçlar.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\bin\Debug\aa-ER\Araçlar.resources.dll
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\aa-ER\Araçlar.resources.dll
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Araçlar\obj\Debug\Araçlar.pdb

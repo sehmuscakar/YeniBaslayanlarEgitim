@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\bin\Debug\Proje Seviyesi.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\bin\Debug\Proje Seviyesi.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\bin\Debug\Proje Seviyesi.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje Seviyesi.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje Seviyesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje_Seviyesi.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje_Seviyesi.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje Seviyesi.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje Seviyesi.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje Seviyesi.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Proje Seviyesi\obj\Debug\Proje Seviyesi.pdb

@@ -1,0 +1,40 @@
+Bilgisiyar Nedir :
+Bilgisiyar;Veri toplayan,mantıksal ve aritmetiksel işlemler yapan,veri ve bilgi üreten ,üretiği sonucu saklayabilen,sakladığı sonuca,istediğinde ulaşılan
+elektronik bir makinedir 
+
+bilgisiyar en genel haliyle ikiye ayrılır;yazılım ve donanım 
+
+donanım;bilgisiyarların elle tutulup gözle görülen fiziksel parçalarına denir. araştır resimler filan bul
+
+yazılım;bilgisiyara yapması gerekn işlemleri söyleyen kurallar bütünüdür.
+
+Bilgisiyarlarda bulunan yazılımları iki ana katagoriye ayrılır;
+1)sistem yazılımları;işletim Sistemleri,Yardımcı Yazılımlar
+2)Uygulama Yazılımları 
+
+
+---------------------
+Bilgisiyar programı ve programlama dilleri;
+Belirli bir işelevi yerine getirmek adına,bilgisiyarın ne yapması gerektiğini gösteren,bilgisiyarın anlayabileceği biçimde yazılmış komutlar bütünün sonunda ortaya çıkan ürüne,Bigisiyar Programı diyoruz.
+
+Bilgisiyar programları,bir program dili kullanılarak yapılır.
+C,C++,C#,Delphi,Pascal,Makine Dili, ...
+
+
+Programlama DDilleri
+-Program dili,bilgisiyar mimarisini fazla bilmeden program geliştirmeye olanak sağlar bir notasyondur.
+-Günümüze kadar birçok programlama dili geliştirilmiş ve geliştirmeye de devam etmektedir.
+-Her bir proghramlama dilinin kendine özel sözdiiizimi yapısı ve kuralları vardır.(Syntax)
+
+
+------------
+Kod Düzenleyici Editor
+Program yazılırken geeliştirilen yazılımla ilgili kullanılan dile ait yazım ipuçlarını veren,yapılan hataları 
+
+
+
+
+
+
+
+

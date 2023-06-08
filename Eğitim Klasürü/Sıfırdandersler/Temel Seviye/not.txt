@@ -1,0 +1,4 @@
+araç kullanımlarını araçların ne işe yaradığını Button,Label,ComboBox,PictureBox,Textbox Araçları öğrendik
+bu araçlar arasında aktarımın nasıl yapıldığını,kod ekranını,butonumuza tıklanma olayını,araçlarımızın özeliklerini değiştirmeyi,Örnek uygulamalr yapmayı ve proje geşitirmeyi öğrendik
+
+Kaynak:Google,Yeni başlayanlar ve Çocuklar için c# programlama

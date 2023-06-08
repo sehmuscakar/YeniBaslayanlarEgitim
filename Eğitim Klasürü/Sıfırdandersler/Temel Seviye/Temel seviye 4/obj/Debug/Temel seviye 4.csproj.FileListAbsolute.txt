@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\bin\Debug\Temel seviye 4.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\bin\Debug\Temel seviye 4.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\bin\Debug\Temel seviye 4.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel seviye 4.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel seviye 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel_seviye_4.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel_seviye_4.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel seviye 4.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel seviye 4.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel seviye 4.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Temel Seviye\Temel seviye 4\obj\Debug\Temel seviye 4.pdb

@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\bin\Debug\Proje2.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\bin\Debug\Proje2.exe
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\bin\Debug\Proje2.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\UygulamaAlanı4.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\UygulamaAlanı4.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\Proje2.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\Proje2.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\UygulamaAlanı4.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\UygulamaAlanı4.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\Proje2.exe
+C:\Users\Şehmus\Desktop\Eğitimler\KararYapilari\Proje2\obj\Debug\Proje2.pdb

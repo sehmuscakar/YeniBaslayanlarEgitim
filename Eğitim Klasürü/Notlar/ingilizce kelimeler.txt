@@ -1,0 +1,96 @@
+Tool:Araç
+yellow:Sarı
+Lower:Küçük Harf
+Click:Tıklama
+Background:Arka Plan
+False:Yanlış
+ListBox:Liste Kutusu
+Multi Line:Çoklu Satır
+Sorted:Sıralama
+Button:Düğme
+System:Sistem
+Char:Karekter
+Cursor:İmleç
+Image:Resim
+Label:Etiket
+Auto:Otomatik
+Use:Kullanmak
+Length:Uzunluk
+Visible:Görünüm
+Upper:Büyük Harf
+Location:Konum
+Enabled:Aktiflik/Pasiflik
+True:Doğru
+List:Liste
+Size:Boyut
+Password:Şifre
+Layout:Düzen
+if:eğer
+or:veya
+time:zaman
+red:kırmızı
+top:üst
+else:değilse
+message:mesaj
+timer:zamanlayıcı
+transparent:şeffaf/saydam
+richtextbox:zengin metin kutusu
+and:ve 
+rich:zengin
+ınterval:süre/aralık
+left:sol
+Veriable:Değişken
+Convert:Dönüşüm
+Pink:Pembe
+Lime:Küçük Limon
+Items:Öğeler
+Group:Grup
+This:Bu
+Orange:Turuncu
+Green:Yeşil
+To:Yön Belirteci
+White:Beyaz
+Blue:Mavi
+Add:Eklemek
+loop:döngü
+while:işlem devam ederken
+Do:Yapmak
+Count:Sayaç
+Application:Uygulama
+Show:Göstermek/Gösteri
+Information:Bilgi
+Exit:Çıkış
+Message box:Mesaj kutusu
+array:dizi
+Index:index/dizin
+Image Location:resim konumu
+In:iç/içinden
+Euro:Avrupa
+Spider:Örümcek
+Super:süper
+Class:Sınıf
+Box:Kutu
+Truck:Tır
+Bat:Yarasa
+Selected:Seçilen
+From:Den/Dan
+Random:Rastgele
+Class:Sınıf
+Object:Nesne
+Tick:Tıkırtı/Tikleme
+Property:Özelik/Nitelik
+Next:Sonraki
+Border:Kenarlık
+Style:Biçim
+None:Yok/Hiçbiri
+Right:Sağ
+Left:Sol
+User:kullanıcı
+this:bu
+new:yeni
+password:şifre
+hide:gizlemek/saklamak
+char:karekter
+lock:kilit
+show:gösteri/göster
+system:sistem

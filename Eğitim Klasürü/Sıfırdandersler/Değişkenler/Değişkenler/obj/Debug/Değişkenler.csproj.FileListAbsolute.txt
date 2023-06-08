@@ -1,0 +1,11 @@
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\bin\Debug\Değişkenler.exe.config
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\bin\Debug\Değişkenler.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\bin\Debug\Değişkenler.pdb
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.AssemblyReference.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.SuggestedBindingRedirects.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.Form1.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.Properties.Resources.resources
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.GenerateResource.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.csproj.CoreCompileInputs.cache
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.exe
+C:\Users\Şehmus\Desktop\Eğitimler\Değişkenler\Değişkenler\obj\Debug\Değişkenler.pdb

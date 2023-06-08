@@ -1,0 +1,27 @@
+proje oluştururken solution name bir kutudur.o kutuya isim vererek projelerini tek bir kutuda toplayabilirsin.
+projelene yeni bir preoje eklemek için proje içinde add proje diyerek oluşturabilirsin 
+- scop to this ile istediğin projeye odaklanabilirsin 
+
+- alt+fare sağ tuş beraber bas istediğin şekilde dikine seçim yapabilirsin 
+-ctrl+k+d harfleri düzenler 
+
+- solution explorer kısmında fazla proje eklediğnde ve çalıştırdığında hangi proje çalıştırmak istediğnde stat kısmının hemen yanında textbox ta isim olarak yaza bilirsin 
+- ctrl+ D yap aynı satırı aşağıya koopyalayabilirsin
+
+- break point kullanımı f10,f11,f12 kullanımları öğren mutlaka 
+- windows tuşu+ tab ttuşu ile açılan sekmeleri hepsini görünteleybilirsin
+-solution explorer da projeler varsa hangi proje üstünde çalışmayı istiyorsan set as startup project seçmen yeterli
+
+-foreach kısa yazılışı :foreach yazıp tap yap iskeleti otomatik yazılacak 
+- insert tusuna basarsan imleç kalın olur 
+- ctor kısaca yaz contsactır oluşturur(yapıcı metot)
+- erişim belirteci hiç belirtmezsen o public olarak algılar 
+- prop propertyi oluşturmanın ksıa yazılışı
+- if yazıp tab tab yazdıııktan sonra otomatik oluşur
+-for döngüsünnde tab tab yaparsan otomatik oluşur
+
+-- Tools> Designers > prevent saving ile bşlayan seçili olmaması lazım ki veritabanındaki değişikliklerinin kaydedilmesi olsun
+
+- Pichon programını indirebilirsin icon kullanımların için 
+
+- . Try Catch Yapısı İle Hata Yakalama için try yazıp tab tab yaparsan otolmatik dodurur

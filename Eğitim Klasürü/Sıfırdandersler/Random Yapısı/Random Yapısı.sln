@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random Yapısı", "Random Yapısı\Random Yapısı.csproj", "{169B3B76-9F6C-4FFB-BABC-D26677563016}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Uygulama Alanı 2", "Uygulama Alanı 2\Uygulama Alanı 2.csproj", "{F480238B-7A4B-422A-81D1-026766200AAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{169B3B76-9F6C-4FFB-BABC-D26677563016}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{169B3B76-9F6C-4FFB-BABC-D26677563016}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{169B3B76-9F6C-4FFB-BABC-D26677563016}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{169B3B76-9F6C-4FFB-BABC-D26677563016}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F480238B-7A4B-422A-81D1-026766200AAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F480238B-7A4B-422A-81D1-026766200AAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F480238B-7A4B-422A-81D1-026766200AAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F480238B-7A4B-422A-81D1-026766200AAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CCC08B2-D840-4D8D-A72B-83C62ACD318F}
+	EndGlobalSection
+EndGlobal

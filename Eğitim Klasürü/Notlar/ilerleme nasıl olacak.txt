@@ -1,0 +1,14 @@
+1)Temel Araçların Kullanımları
+2)Değişkenler
+3)Karar Yapıları
+4)Döngüler
+5)Diziler(foreach döngüsü burda dizi bilinmesi lazım)
+6)Random Yapısı 
+7)Formlar Arası Geçiş İşlemi
+8) Güzel bir Proje 
+
+-----------------------------------
+Özel hazırlanmış eğitimlerle yazılım öğrenmeye başla!
+Bire Bir Eğitim 
+
+kaynak belirt mutlaka hem teori hemde uygulama ;yeni başlayanlar ve çocuklar için c# programlama kitabı yoğunluklu olarak kaynak olumuştur.ve diğer kitaplar ve videolar vs.
